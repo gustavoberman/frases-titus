@@ -1,6 +1,30 @@
-<h1>Random Quote Generator &nbsp <a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a></h1>
+<div align="center">
+  <a href="https://afrizalyogi.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/afrizalyogi/cdn/main/Assets/Icons/AY_LightProfile.png" alt="Afrizal Yogi" width="100px"/>
+  </a>
+  <h1>Random Quotes Generator &nbsp</h1>
+  <p>Random quotes generator by <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a></p>
+  <a href="https://choosealicense.com/licenses/mit/" target="_blank">
+    <img src="https://img.shields.io/github/license/afrizalyogi/random-quotes?color=%23007aff" alt="License MIT"/>
+  </a>
+  <a href="https://github.com/afrizalyogi/random-quotes/pulls" target="_blank">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square&color=%23007aff" alt="PRs Welcome"/>
+  </a>
+  <a href="https://afrizalyogi.github.io/random-quotes" target="_blank">
+    <img src="https://img.shields.io/website?down_color=ff001a&down_message=Down&up_color=007aff&up_message=UP&url=https%3A%2F%2Fafrizalyogi.github.io%2Frandom-quotes" alt="Website Up"/>
+  </a>
+  <a href="https://saweria.co/afrizalyogi" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-5c5c5c?style=flat&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
+  </a>
+</div>
 
-Random quote generator by Afrizal Yogi
+---
+
+## Preview
+This is preview of the project. You can visit live preview on <a href="https://afrizalyogi.github.io/random-quotes" target="_blank">here</a>.
+<a href="https://afrizalyogi.github.io/random-quotes">
+  <img src="https://raw.githubusercontent.com/afrizalyogi/random-quotes/main/Assets/AfrizalYogi_RandomQuote.gif" alt="Random Quotes"/>
+</a>
 
 <br/>
 
@@ -25,11 +49,11 @@ Thank you for all your contribution on this project.
 
 <br/>
 
-## Shoutout to all Stargazers and Forkers
-<p>
-  <a href="https://github.com/afrizalyogi/random-quote/stargazers"><img src="https://reporoster.com/stars/afrizalyogi/random-quote" alt="Stargazers repo roster for @afrizalyogi/random-quote" height="100px"/></a>
-  <a href="https://github.com/afrizalyogi/random-quote/network/members"><img src="https://reporoster.com/forks/afrizalyogi/random-quote" alt="Forkers repo roster for @afrizalyogi/random-quote" height="100px"/></a>
-</p>
+## Supporters
+<div>
+  <a href="https://github.com/afrizalyogi/random-quotes/stargazers"><img src="https://reporoster.com/stars/afrizalyogi/random-quotes" alt="Stargazers repo roster for @afrizalyogi/random-quotes" width="48%"/></a>
+  <a href="https://github.com/afrizalyogi/random-quotes/network/members"><img src="https://reporoster.com/forks/afrizalyogi/random-quotes" alt="Forkers repo roster for @afrizalyogi/random-quotes" width="48%"/></a>
+</div>
 
 <br/>
 
