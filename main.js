@@ -25,7 +25,7 @@ function getQuotes() {
       Accept: 'application/json'
     },
     url:
-      'quotes.json',
+      'https://raw.githubusercontent.com/afrizalyogi/random-quote/deployment/quotes.json',
     success: function (jsonQuotes) {
       if (typeof jsonQuotes === 'string') {
         quotesData = JSON.parse(jsonQuotes);
