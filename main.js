@@ -71,10 +71,10 @@ function getQuote() {
     $(".button").animate( {
         backgroundColor: colors[color]
     }, 1000 );
-    $(".footer").animate( {
+    $("#footer").animate( {
         color: colors[color]
     }, 1000 );
-    $(".footer a").animate( {
+    $("#footer a").animate( {
         color: colors[color]
     }, 1000 );
 }

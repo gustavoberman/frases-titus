@@ -19,23 +19,23 @@
     font-size: unset;
   }
 
-  #wrapper #quote-box .buttons {
+  #wrapper #quote-box #buttons {
     width: 80vw;
   }
   
-  #wrapper #quote-box .buttons .button {
+  #wrapper #quote-box #buttons .button {
     margin-top: 20%;
     height: 32px;
     font-size: 0.7em;
   }
 
-  #wrapper #quote-box .buttons .button#tweet-quote, #wrapper #quote-box .buttons .button#github-quote {
+  #wrapper #quote-box #buttons .button#tweet-quote, #wrapper #quote-box #buttons .button#github-quote {
     font-size: 0.8em;
     height: 20px;
     width: 30px;
   }
 
-  #wrapper .footer {
+  #wrapper #footer {
     position: absolute;
     bottom: 5%;
     left: 0;
@@ -47,11 +47,11 @@
 }
 
 @media only screen and (min-width: 660px) {
-  #wrapper .footer {
+  #wrapper #footer {
     color: #fff !important;
   }
 
-  #wrapper .footer a {
+  #wrapper #footer a {
     color: #fff !important;
   }
 }
@@ -93,33 +93,36 @@ body {
   text-align: right;
 }
 
-#quote-box .buttons {
+#quote-box #buttons {
   display: block;
   width: 450px;
   margin: auto;
+  transition: all 150ms ease;
 }
 
-#quote-box .buttons .button {
+#quote-box #buttons .button {
   height: 38px;
   border: none;
   border-radius: 10px;
+  border-color: inherit;
+  box-shadow: none;
+  outline: none;
   color: #fff;
   background-color: #333;
   font-size: 1em;
   padding: 10px 16px;
   margin-top: 30px;
   cursor: pointer;
-  transition: all 150ms ease;
 }
 
-#quote-box .buttons .button:hover {
+#quote-box #buttons .button:hover {
   opacity: 0.9;
 }
 
-#quote-box .buttons .button#tweet-quote, #quote-box .buttons .button#github-quote {
+#quote-box #buttons .button#tweet-quote, #quote-box #buttons .button#github-quote {
   float: left;
   padding: 5px;
-  padding-top: 8px;
+  padding-top: 9px;
   text-align: center;
   font-size: 1.2em;
   margin-right: 10px;
@@ -127,17 +130,17 @@ body {
   width: 40px;
 }
 
-#quote-box .buttons .button#new-quote {
+#quote-box #buttons .button#new-quote {
   float: right;
 }
 
-.footer {
+#footer {
   display: block;
   text-align: center;
   margin: 15px auto 30px auto;
 }
 
-.footer a {
+#footer a {
     font-weight: 500;
     text-decoration: none;
 }
