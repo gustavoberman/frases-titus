@@ -22,6 +22,7 @@
 
 ## Preview
 This is preview of the project. You can visit live preview on <a href="https://afrizalyogi.github.io/random-quotes" target="_blank">here</a>.
+
 <a href="https://afrizalyogi.github.io/random-quotes">
   <img src="https://raw.githubusercontent.com/afrizalyogi/random-quotes/main/Assets/AfrizalYogi_RandomQuote.gif" alt="Random Quotes"/>
 </a>
@@ -51,8 +52,8 @@ Thank you for all your contribution on this project.
 
 ## Supporters
 <div>
-  <a href="https://github.com/afrizalyogi/random-quotes/stargazers"><img src="https://reporoster.com/stars/afrizalyogi/random-quotes" alt="Stargazers repo roster for @afrizalyogi/random-quotes" width="48%"/></a>
-  <a href="https://github.com/afrizalyogi/random-quotes/network/members"><img src="https://reporoster.com/forks/afrizalyogi/random-quotes" alt="Forkers repo roster for @afrizalyogi/random-quotes" width="48%"/></a>
+  <a href="https://github.com/afrizalyogi/random-quotes/stargazers"><img src="https://reporoster.com/stars/afrizalyogi/random-quotes" alt="Stargazers repo roster for @afrizalyogi/random-quotes" width="46.5%"/></a>
+  <a href="https://github.com/afrizalyogi/random-quotes/network/members"><img src="https://reporoster.com/forks/afrizalyogi/random-quotes" alt="Forkers repo roster for @afrizalyogi/random-quotes" width="50%"/></a>
 </div>
 
 <br/>
