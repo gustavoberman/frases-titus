@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://afrizalyogi.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/afrizalyogi/cdn/main/Assets/Icons/AY_LightProfile.png" alt="Afrizal Yogi" width="100px"/>
+    <img src="https://cdn.jsdelivr.net/gh/afrizalyogi/cdn@main/Assets/Icons/AY_LightProfile.png" alt="Afrizal Yogi" width="100px"/>
   </a>
-  <h1>Random Quotes Generator &nbsp</h1>
+  <h1>Random Quotes Generator</h1>
   <p>Random quotes generator by <a href="https://afrizalyogi.github.io" target="_blank">Afrizal Yogi</a></p>
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
     <img src="https://img.shields.io/github/license/afrizalyogi/random-quotes?color=%23007aff" alt="License MIT"/>
@@ -23,7 +23,7 @@
 ## Preview
 This is preview of the project. You can visit live preview on <a href="https://afrizalyogi.github.io/random-quotes" target="_blank">here</a>.
 <a href="https://afrizalyogi.github.io/random-quotes">
-  <img src="https://raw.githubusercontent.com/afrizalyogi/random-quotes/main/Assets/AfrizalYogi_RandomQuote.gif" alt="Random Quotes"/>
+  <img src="https://cdn.jsdelivr.net/gh/afrizalyogi/random-quotes@main/Assets/AfrizalYogi_RandomQuote.gif" alt="Random Quotes"/>
 </a>
 
 <br/>
@@ -44,8 +44,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-or you can just simply <a href="https://saweria.co/afrizalyogi" target="_blank">Support This Project</a>. 
-Thank you for all your contribution on this project.
+or you can just simply <a href="https://saweria.co/afrizalyogi" target="_blank">Support This Project</a>. Thank you for all your contribution on this project.
 
 <br/>
 
@@ -57,4 +56,10 @@ Thank you for all your contribution on this project.
 
 <br/>
 
-### Made with ❤️ by Afrizal Yogi
+#### Made with ❤️ by Afrizal Yogi
+<div>
+  <a href="https://www.linkedin.com/in/afrizalyogi">LinkedIn</a> | 
+  <a href="https://www.instagram.com/afrizalyogi.id/">Instagram</a> | 
+  <a href="https://github.com/afrizalyogi">Github</a> | 
+  <a href="https://discord.gg/jxKUjGBmrD">Discord</a>
+</div>
