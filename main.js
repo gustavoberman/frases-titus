@@ -24,7 +24,7 @@ function getQuotes() {
             Accept: "application/json"
         },
         url:
-        "https://raw.githubusercontent.com/afrizalyogi/random-quote/deployment/quotes.json",
+        "https://raw.githubusercontent.com/afrizalyogi/random-quotes/deployment/quotes.json",
         success: function(jsonQuotes) {
             if ( typeof jsonQuotes === "string" ) {
                 quotesData = JSON.parse(jsonQuotes);
@@ -71,10 +71,10 @@ function getQuote() {
     $(".button").animate( {
         backgroundColor: colors[color]
     }, 1000 );
-    $("#footer").animate( {
+    $("#credit").animate( {
         color: colors[color]
     }, 1000 );
-    $("#footer a").animate( {
+    $("#credit a").animate( {
         color: colors[color]
     }, 1000 );
 }
