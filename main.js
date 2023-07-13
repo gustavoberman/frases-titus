@@ -24,7 +24,7 @@ function getQuotes() {
             Accept: "application/json"
         },
         url:
-        "https://raw.githubusercontent.com/gustavoberman/frases-titus/deployment/quotes.json",
+        "https://raw.githubusercontent.com/gustavoberman/frases-titus/main/quotes.json",
         success: function(jsonQuotes) {
             if ( typeof jsonQuotes === "string" ) {
                 quotesData = JSON.parse(jsonQuotes);
